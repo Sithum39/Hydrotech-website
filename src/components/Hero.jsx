@@ -14,8 +14,8 @@ const Hero = () => {
       viewport={{once: true}}
       className='inline-flex items-center gap-2 border
        border-gray-300 p-1.5 pr-4 rounded-full'>
-        <img className='w-20' src={assets.group_profile} alt="" />
-        <p className='text-xs font-medium'>Trusted by 10k+ people</p>
+        {/* <img className='w-20' src={assets.group_profile} alt="" /> */}
+        <p className='text-xs font-medium'>Trusted by Sri Lankan people</p>
       </motion.div>
 
   <motion.h1
