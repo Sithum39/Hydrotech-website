@@ -72,11 +72,11 @@ export default assets
 
 export const teamData = [
   { name: 'Riththikkan Sairam', title: 'CEO & founder', image: '' },
-  { name: 'Kavindu Pabasara', title: 'Ads manager', image: '' },
-  { name: 'Sithum Jayathilaka', title: 'Vice president', image: '' },
-  { name: 'Selvanathan Rakukaran', title: 'Marketing & sales', image: '' },
+  { name: 'Kavindu Pabasara', title: 'Mobile App Developer', image: '' },
+  { name: 'Sithum Jayathilaka', title: 'Web Developer', image: '' },
+  { name: 'Maneesha Gunarathne', title: 'System Developer', image: '' },
   { name: 'Varushini Gunaretnam', title: 'Content marketer', image: '' },
-  { name: 'Himal Gunawardhane', title: 'Content writer', image: '' },
-  { name: 'Roman Figurado', title: 'Performance manager', image: '' },
-  { name: 'Vibishek', title: 'Senior writer', image: '' },
+  { name: 'Selvanathan Rakukaran', title: 'IoT Developer', image: '' },
+  //{ name: 'Roman Figurado', title: 'Performance manager', image: '' },
+  //{ name: 'Vibishek', title: 'Senior writer', image: '' },
 ]
