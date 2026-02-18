@@ -31,6 +31,15 @@ import sun_icon from './sun_icon.svg'
 import moon_icon from './moon_icon.svg'
 
 
+import Kavindu from './Kavindu.jpeg'
+import Krishnaveny from './Krishnaveny.jpeg'
+import Maneesha from './Maneesha.jpeg'
+import Raku from './Raku.jpeg'
+import Rithikon from './Rithikon.jpeg'
+import Sithum from './sithum.jpeg'
+import Varushy from './Varushy.jpeg'
+
+
 export const company_logos = [
   microsoft_logo,
   zoom_logo,
@@ -65,18 +74,26 @@ const assets = {
   logo_dark,
   menu_icon_dark,
   sun_icon,
-  moon_icon
+  moon_icon,
+  Kavindu,
+  Krishnaveny,
+  Maneesha,
+  Raku,
+  Rithikon,
+  Sithum,
+  Varushy
 }
 
 export default assets
 
 export const teamData = [
-  { name: 'Riththikkan Sairam', title: 'CEO & founder', image: '' },
-  { name: 'Kavindu Pabasara', title: 'Mobile App Developer', image: '' },
-  { name: 'Sithum Jayathilaka', title: 'Web Developer', image: '' },
-  { name: 'Maneesha Gunarathne', title: 'System Developer', image: '' },
-  { name: 'Varushini Gunaretnam', title: 'Content marketer', image: '' },
-  { name: 'Selvanathan Rakukaran', title: 'IoT Developer', image: '' },
+  { name: 'Riththikkan Sairam', title: 'CEO & founder', image: Rithikon },
+  { name: 'Kavindu Pabasara', title: 'Mobile App Developer', image: Kavindu },
+  { name: 'Sithum Jayathilaka', title: 'Web Developer', image: Sithum },
+  { name: 'Maneesha Gunarathne', title: 'System Developer', image: Maneesha },
+  { name: 'Varushini Gunaretnam', title: 'Content marketer', image: Varushy },
+  { name: 'Selvanathan Rakukaran', title: 'IoT Developer', image: Raku },
+  { name: 'Krishnaveny', title: 'Team Member', image: Krishnaveny },
   //{ name: 'Roman Figurado', title: 'Performance manager', image: '' },
   //{ name: 'Vibishek', title: 'Senior writer', image: '' },
 ]

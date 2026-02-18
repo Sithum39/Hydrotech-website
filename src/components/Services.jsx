@@ -7,27 +7,27 @@ import { motion } from "motion/react"
 const Services = () => {
 const servicesdata = [
   {
-    title: 'Water theft detection',
+    title: 'Smart Water Meter',
     description:
-      'We turn bold ideas into powerful digital solutions that connect, engage, and convert audiences.',
+      'Our smart water meter delivers accurate, real-time measurement of water consumption. It enables continuous monitoring, reduces manual readings, and provides reliable data to improve efficiency and transparency in water usage.',
     icon: assets.ads_icon,
   },
   {
-    title: 'Water purity checking',
+    title: 'Remote Water Valve',
     description:
-      'We turn bold ideas into powerful digital solutions that connect, engage, and convert audiences.',
+      'The remote water valve allows secure control of water flow using Wi-Fi or 4G connectivity. Utilities and users can operate, shut off, or regulate water supply remotely, improving response time, safety, and operational control.',
     icon: assets.content_icon,
   },
   {
-    title: 'Water billing management',
+    title: 'Water Purity Sensors',
     description:
-      'We turn bold ideas into powerful digital solutions that connect, engage, and convert audiences.',
+      'Our real-time water purity sensors continuously monitor key quality parameters. They provide instant alerts and live data to ensure safe water standards, early contamination detection, and improved public health protection.',
     icon: assets.marketing_icon,
   },
   {
-    title: 'Social Media Marketing',
+    title: 'Industrial Data Logger',
     description:
-      'We turn bold ideas into powerful digital solutions that connect, engage, and convert audiences.',
+      'Designed for industrial environments, our data logger captures and stores critical water and system data with high reliability. It enables long-term analysis, compliance reporting, and smarter operational decision-making.',
     icon: assets.social_icon,
   },
 ]

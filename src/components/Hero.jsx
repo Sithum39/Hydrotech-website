@@ -34,8 +34,8 @@ const Hero = () => {
       viewport={{once: true}}
   className='text-sm sm:text-lg font-medium text-gray-500
    dark:text-white/75 max-w-[80%] sm:max-w-lg pb-3'>
-        At HYDROTECH, we bring you the latest smart water meter technology designed to revolutionize how you monitor and control your water usage. Our smart water meter offers accurate real-time measurement, 
-        helping you save water and reduce your bills effortlessly.
+        HYDROTECH is a technology-driven company reimagining how water is managed in a digital world.
+We focus on transforming traditional water infrastructure into intelligent, connected systems that empower better decisions, reduce inefficiencies, and support long-term sustainability.
       </motion.p>
 
       <motion.div 
