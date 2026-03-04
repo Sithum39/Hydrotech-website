@@ -28,13 +28,14 @@ const ServiceCard = ({ service, index }) => {
 
             {/* Learn More link */}
             <div className='mt-5'>
-                <span className='text-primary dark:text-secondary text-sm font-semibold inline-flex items-center gap-1
+                <a href="/SmartH2O_brouchure .pdf" download="SmartH2O_Brochure.pdf"
+                    className='text-primary dark:text-secondary text-sm font-semibold inline-flex items-center gap-1
           group-hover:gap-2 transition-all cursor-pointer'>
                     Learn More
                     <svg className='w-4 h-4' fill='none' viewBox='0 0 24 24' stroke='currentColor'>
                         <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M9 5l7 7-7 7' />
                     </svg>
-                </span>
+                </a>
             </div>
         </motion.div>
     )

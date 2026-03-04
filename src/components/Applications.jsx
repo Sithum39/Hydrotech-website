@@ -61,7 +61,7 @@ const Applications = () => {
                                 <p className='text-gray-500 dark:text-gray-400 leading-relaxed mb-6'>
                                     {app.description}
                                 </p>
-                                <a href="#contact-us" className='inline-flex items-center gap-2 text-primary dark:text-secondary 
+                                <a href="/SmartH2O_brouchure .pdf" download="SmartH2O_Brochure.pdf" className='inline-flex items-center gap-2 text-primary dark:text-secondary 
                   font-semibold text-sm hover:gap-3 transition-all'>
                                     Learn More
                                     <svg className='w-4 h-4' fill='none' viewBox='0 0 24 24' stroke='currentColor'>

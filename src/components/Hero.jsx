@@ -58,9 +58,9 @@ const Hero = () => {
             flex items-center gap-2'>
             Get Quotation <img src={assets.arrow_icon} width={14} alt="" />
           </a>
-          <a href="/SmartH2O_brouchure .pdf" download="SmartH2O_Brochure.pdf" className='border-2 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 px-8 py-3.5 rounded-xl
+          <a href="#service" className='border-2 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 px-8 py-3.5 rounded-xl
             font-semibold text-sm hover:border-primary hover:text-primary transition-all duration-300 text-center'>
-            Explore Products ⬇
+            Explore Products ↓
           </a>
         </motion.div>
 

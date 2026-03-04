@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
+import MissionVision from './components/MissionVision'
 import Services from './components/Services'
 import Applications from './components/Applications'
 import WhyChoose from './components/WhyChoose'
@@ -20,6 +21,7 @@ const App = () => {
       <Toaster />
       <Navbar theme={theme} setTheme={setTheme} />
       <Hero />
+      <MissionVision />
       <Services />
       <Applications />
       <WhyChoose />
